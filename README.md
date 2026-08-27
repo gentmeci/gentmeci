@@ -7,7 +7,7 @@ Founder and product builder based in Albania, creating practical digital platfor
 - [AskGenie](https://askgenie.al) — legal operations and AI-assisted intelligence for Albanian legal professionals.
 - [SmartSearch](https://smartsearch.al) — search, discovery and digital product infrastructure for the Albanian market.
 - [MerrMakine](https://merrmakine.com) — multilingual, multi-agency vehicle-rental marketplace.
-- [Meci.al](https://meci.al) — digital presence for Meçi Olive Oil and its products.
+- [Meci.al](https://meci.al) — digital presence for Meçi & Associates Law Firm.
 - [Vaj.al](https://vaj.al) — online destination for Albanian olive oil and related products.
 
 ## Focus
