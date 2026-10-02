@@ -6,7 +6,7 @@ Ky dokument dallon atë që u vëzhgua live nga ajo që vetëm ekziston në GitH
 |---|---|---|---|---|
 | SmartSearch | https://smartsearch.al/ | Cloudflare, Next.js/OpenNext, D1 | `gentmeci/smartsearch.al` / `main` | Bundle-i publik përputhet me build-in e `f4d573d2...`; Worker version ID kërkon rivërtetim |
 | AskGenie | https://askgenie.al/ | Cloudflare para PHP 8.4/Laravel; MySQL sipas repo | `gentmeci/askgenie-platform` / `main` | Familja e kodit përputhet; SHA aktiv nuk është ekspozuar |
-| MerrMakine | https://merrmakine.com/en | Cloudflare, Next.js/OpenNext, D1 | `gentmeci/merrmakine.com` / `main` | Aktiv: Worker `80ec22f8-...` i 26 shtatorit, application SHA e dokumentuar `511ced87...`; `main`/`68bd6c6` nuk është live |
+| MerrMakine | https://merrmakine.com/en | Cloudflare, Next.js/OpenNext, D1 | `gentmeci/merrmakine.com` / `main` | Aktiv: Worker `80ec22f8-...` i 26 shtatorit; D1 ka të gjitha migrimet e `main`, por `main`/`68bd6c6` nuk është live |
 | MerrMakine Laravel | jo domaini live aktual | Laravel/VPS target i veçantë | `gentmeci/merrmakine-laravel` / `main` | Ruaje të ndarë; mos e mbishkruaj me Next.js |
 | meci.al | https://meci.al/ | WordPress/PHP pas Cloudflare | `gentmeci/meci-al` / `main` | Snapshot zhvillimi i WordPress; live DB/uploads/config jashtë Git |
 | vaj.al | https://vaj.al/ | WordPress/Cloudron pas Cloudflare | `gentmeci/vaj-al` / `main` | `main` dokumentohet si kopje e WordPress-it live; DB/uploads/config jashtë Git |
