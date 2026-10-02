@@ -21,6 +21,6 @@ Ky dokument dallon atë që u vëzhgua live nga ajo që vetëm ekziston në GitH
 
 ## Raportet e hollësishme
 
-- SmartSearch: `docs/AUDIT_2026_10_02.md`
-- AskGenie: `docs/AUDIT_2026_10_02.md`
-- MerrMakine Next.js: `docs/AUDIT_2026_10_02.md`
+- [SmartSearch](https://github.com/gentmeci/smartsearch.al/blob/codex/live-audit-2026-10-02/docs/AUDIT_2026_10_02.md)
+- [AskGenie](https://github.com/gentmeci/askgenie-platform/blob/codex/live-audit-2026-10-02/docs/AUDIT_2026_10_02.md)
+- [MerrMakine Next.js](https://github.com/gentmeci/merrmakine.com/blob/codex/live-audit-2026-10-02/docs/AUDIT_2026_10_02.md)
