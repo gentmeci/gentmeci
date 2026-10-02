@@ -1,14 +1,15 @@
 # Gentjan Meci
 
-Founder and product builder based in Albania, creating practical digital platforms across legal technology, mobility, search and commerce.
+Founder and product builder based in Albania, creating practical digital platforms
+across legal technology, mobility, search and commerce.
 
 ## Products
 
-- [AskGenie](https://askgenie.al) — legal operations and AI-assisted intelligence for Albanian legal professionals.
-- [SmartSearch](https://smartsearch.al) — search, discovery and digital product infrastructure for the Albanian market.
-- [MerrMakine](https://merrmakine.com) — multilingual, multi-agency vehicle-rental marketplace.
-- [Meci.al](https://meci.al) — digital presence for Meçi & Associates Law Firm.
-- [Vaj.al](https://vaj.al) — online destination for Albanian olive oil and related products.
+- [AskGenie](https://askgenie.al) — legal operations and AI-assisted workflows for Albanian legal professionals.
+- [SmartSearch](https://smartsearch.al) — an Albanian marketplace for listings, discovery and local services.
+- [MerrMakine](https://merrmakine.com) — a multilingual, multi-agency vehicle-rental marketplace.
+- [MEÇI & Associates](https://meci.al) — the law firm's public website.
+- [MEÇI Olive Oil](https://vaj.al) — the producer's WordPress commerce website.
 
 ## Focus
 
@@ -20,11 +21,12 @@ Founder and product builder based in Albania, creating practical digital platfor
 
 ## Technology
 
-Laravel · PHP · Vue · TypeScript · Next.js · WordPress · Supabase · PostgreSQL · MySQL · Cloudflare · GitHub Actions
+Next.js · TypeScript · Laravel · PHP · WordPress · MySQL · Cloudflare Workers · D1 · GitHub Actions
 
-The commercial product repositories are private. Public links above point to the live services.
+The commercial product repositories are private. Public links above point only to the
+live services; planned integrations and private previews are not presented as launched.
 
 ## Contact
 
-- Web: [smartsearch.al](https://smartsearch.al)
+- Web: [meci.al](https://meci.al)
 - Email: [info@meci.al](mailto:info@meci.al)
