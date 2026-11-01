@@ -1,8 +1,10 @@
-# Gentjan Meci
+# Gentjan Meçi
 
-Founder and product builder at [MEÇI & Associates](https://meci.al), based in Albania.
-I build practical, Albanian-first digital platforms for legal work, mobility, search
-and commerce.
+Lawyer at [Meçi & Associates](https://meci.al), based in Tirana, Albania, with a focus on criminal defence.
+My [professional profile](https://meci.al/en/gentjan-meci/) describes my practice, education and contact details.
+
+I also build practical, Albanian-first digital platforms for legal work, mobility,
+search and commerce.
 
 ## AskGenie Legal
 
